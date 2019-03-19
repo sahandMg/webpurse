@@ -1,0 +1,12 @@
+body{font-family:Tahoma;font-size:12px;padding:0px;margin:0;background:#EEE;}a{color:#004DE5;text-decoration:none;}a:hover{color:#333;}
+#main{padding:25px;}h1{font-family:Tahoma;font-size:16px;}
+#header{margin:0;background:#A7A7A7;padding:0px 25px;border-bottom:3px solid #333;list-style:none;}#header li{display:inline-block;}#header li a{padding:7px 9px;font-size:12px;text-decoration:none;display:block;color:#9E7100;background:rgba(255,255,255,0.9);}#header li a:hover{background:rgba(255,255,255,0.7);}input,select{margin:5px 0;}
+table{width:100%;border-collapse:collapse;border-spacing:0;empty-cells:show;border:1px solid #cbcbcb}table caption{color:#000;font:italic 85%/1 arial,sans-serif;padding:1em 0;text-align:center}
+table tr th{text-align:right;padding: 1em 1em;}
+table td,table th{border-left:1px solid #cbcbcb;border-width:0 0 0 1px;font-size:inherit;margin:0;overflow:visible;padding:.5em 1em}table td:first-child,table th:first-child{border-left-width:0}table thead{background-color:#e0e0e0;color:#000;text-align:left;vertical-align:bottom}table td{background-color:transparent}table-odd td{background-color:#f2f2f2}
+table th{background:#5F96D5;color:#FFF;padding:10px 2px;}
+table td table th {background:#EBEBEB;color:#333333;}
+table tr:nth-child(2n-1) td{background-color:#F7F7F7}table td{border-bottom:1px solid #cbcbcb} table tr:last-child>td{border-bottom-width:0}table td,table th{border-width:0 0 1px;border-bottom:1px solid #cbcbcb}table tr:last-child>td{border-bottom-width:0}
+.user_inactive{background:#EFD7D7 !important;}
+.admin_header{background:#6097D0 !important;}#verify_status th{padding:3px !important;font-size:9px;font-weight:normal;}#verify_status td{text-align:center;padding:3px !important;}#verify_status td.v0{color:#D33864;}#verify_status td.v1{background:#D5EAB7;color:#333;}
+#infoMessage{color:red;display:block;padding:5px;font-weight:bold;font-size:18px;}
